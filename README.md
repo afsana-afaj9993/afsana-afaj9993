@@ -1,4 +1,4 @@
-![I am afsana-afaj9993](https://github.com/afsana-afaj9993/afsana-afaj9993/blob/main/code.png)https://github.com/harun181/harun181/raw/main/code.png
+![I am afsana-afaj9993](https://github.com/afsana-afaj9993/afsana-afaj9993/raw/main/code.png)
 
 
 <h1 align="center">Hi 👋,I'm afsana-afaj9993</h1>
