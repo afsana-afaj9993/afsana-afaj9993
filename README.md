@@ -1,7 +1,7 @@
-![I am afsana-afaj9993]([https://github.com/afsana-afaj9993/afsana-afaj9993/blob/main/code.png]
+![I am afsana-afaj9993](https://github.com/afsana-afaj9993/afsana-afaj9993/blob/main/code.png)
 
 
-<h1 align="center">Hi 👋, afsana-afaj9993</h1>
+<h1 align="center">Hi 👋,I'm afsana-afaj9993</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center">i am student  of Hablu Programmer</h4>
 
